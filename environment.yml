@@ -1,0 +1,8 @@
+name: rating_env
+channels:
+  - defaults
+dependencies:
+  - python=3.13
+  - tensorboard
+  - ipykernel
+prefix: /opt/anaconda3/envs/rating_env
